@@ -1,4 +1,5 @@
 📊 Comprehensive E-Commerce Performance Dashboard
+
 📌 Project Overview
 
 This project showcases a Comprehensive E-Commerce Performance Dashboard built to simulate real-world analytics tasks performed for enterprise clients. The dashboard replicates end-to-end workflows used in professional environments by analyzing brand and competitor performance across multiple e-commerce and quick-commerce platforms.

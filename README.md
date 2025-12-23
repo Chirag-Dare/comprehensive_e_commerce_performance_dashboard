@@ -1,12 +1,12 @@
-📊 Comprehensive E-Commerce Performance Dashboard
+# 📊 Comprehensive E-Commerce Performance Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project showcases a Comprehensive E-Commerce Performance Dashboard built to simulate real-world analytics tasks performed for enterprise clients. The dashboard replicates end-to-end workflows used in professional environments by analyzing brand and competitor performance across multiple e-commerce and quick-commerce platforms.
 
 All datasets used in this project are dummy but realistically structured, designed to demonstrate practical data analysis, business understanding, and dashboarding skills.
 
-🏷️ Brand & Scope
+## 🏷️ Brand & Scope
 
 Brand Analyzed: Unibrand
 
@@ -26,7 +26,7 @@ Health Care
 
 Granularity: Platform-wise, category-wise, and location-wise analysis
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 🐍 Python – Data generation, cleaning, transformation
 
@@ -40,11 +40,11 @@ Granularity: Platform-wise, category-wise, and location-wise analysis
 
 📄 Dashboard Pages & Key Insights
 
-📦 Page 1 & Page 2: Product Availability & Pricing Insights
+### 📦 Page 1 & Page 2: Product Availability & Pricing Insights
 
 Focused on stock health, pricing effectiveness, and customer perception.
 
-Key Metrics:
+## Key Metrics:
 
 Overall OSA %
 
@@ -60,7 +60,7 @@ Average discount % by platform
 
 Average MRP vs average selling price
 
-🔍 Page 3: Keywords & SOS Insights
+### 🔍 Page 3: Keywords & SOS Insights
 
 Analyzed keyword visibility and competitive positioning.
 
@@ -80,7 +80,7 @@ Top 5 highest & lowest SOS keywords
 
 Daily SOS trends by platform
 
-💰 Page 4 & Page 5: Sales & Orders Insights
+### 💰 Page 4 & Page 5: Sales & Orders Insights
 
 Delivered revenue and demand performance analysis.
 
@@ -98,7 +98,7 @@ Top 5 cities by sales and orders
 
 Category-wise sales & order distribution
 
-📈 Page 6: Sales Forecast & MOM Sales Trend
+### 📈 Page 6: Sales Forecast & MOM Sales Trend
 
 Provided forward-looking insights for planning and performance tracking.
 
@@ -108,7 +108,7 @@ Daily sales trend with 1-month forecast
 
 Month-on-month sales growth/decline analysis
 
-📦 Page 7: Inventory Insights
+### 📦 Page 7: Inventory Insights
 
 Tracked inventory movement and stock efficiency.
 
@@ -126,7 +126,7 @@ Top 5 products with highest stock-outs
 
 Monthly stock-in vs stock-out comparison
 
-📢 Page 8: Campaigns Insights
+### 📢 Page 8: Campaigns Insights
 
 Evaluated marketing effectiveness and ROI.
 
@@ -142,7 +142,7 @@ Day-wise campaign trends
 
 Revenue & order distribution by platform
 
-🎯 Key Outcomes
+## 🎯 Key Outcomes
 
 Demonstrates real-world e-commerce analytics use cases
 
@@ -150,4 +150,3 @@ Highlights strong business KPI understanding
 
 Covers the full analytics lifecycle: data prep → modeling → insights → visualization
 
-An interactive Power BI dashboard built on time-series product availability, keywords, sales, inventory &amp; campaigns data, using calculated measures and rolling metrics to track trends, compare daily performance, and support data-driven business insights.

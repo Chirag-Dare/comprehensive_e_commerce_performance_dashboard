@@ -39,6 +39,7 @@ Granularity: Platform-wise, category-wise, and location-wise analysis
 🧮 DAX – Calculated measures (OSA %, SOS %, ROAS, MOM growth, forecasts)
 
 📄 Dashboard Pages & Key Insights
+
 📦 Page 1 & Page 2: Product Availability & Pricing Insights
 
 Focused on stock health, pricing effectiveness, and customer perception.
